@@ -46,4 +46,3 @@ This repository will continue to grow as I solve more problems and explore diffe
 Learning consistently, solving problems, and improving one solution at a time.
 
 
-The **“AI Assistance”** section is deliberately worded so it communicates honesty without making the repository sound like an AI-generated code dump. It also accurately frames AI as a tool for understanding, debugging, and exploring approaches rather than replacing your own learning.
