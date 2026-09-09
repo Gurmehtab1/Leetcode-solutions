@@ -46,3 +46,11 @@ This repository will continue to grow as I solve more problems and explore diffe
 Learning consistently, solving problems, and improving one solution at a time.
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
+<!---LeetCode Topics End-->
