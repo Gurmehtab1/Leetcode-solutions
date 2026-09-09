@@ -53,4 +53,16 @@ Learning consistently, solving problems, and improving one solution at a time.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
