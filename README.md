@@ -57,6 +57,7 @@ Learning consistently, solving problems, and improving one solution at a time.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0058-length-of-last-word](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
