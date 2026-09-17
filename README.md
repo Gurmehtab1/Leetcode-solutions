@@ -63,6 +63,7 @@ Learning consistently, solving problems, and improving one solution at a time.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +86,7 @@ Learning consistently, solving problems, and improving one solution at a time.
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0202-happy-number](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0202-happy-number/) | Easy |
+| [0344-reverse-string](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
