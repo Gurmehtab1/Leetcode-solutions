@@ -54,6 +54,7 @@ Learning consistently, solving problems, and improving one solution at a time.
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
+| [0202-happy-number](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -83,6 +84,7 @@ Learning consistently, solving problems, and improving one solution at a time.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0202-happy-number](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +104,7 @@ Learning consistently, solving problems, and improving one solution at a time.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -115,4 +118,8 @@ Learning consistently, solving problems, and improving one solution at a time.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0258-add-digits/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
