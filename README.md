@@ -54,6 +54,7 @@ Learning consistently, solving problems, and improving one solution at a time.
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
+| [0258-add-digits](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,4 +107,12 @@ Learning consistently, solving problems, and improving one solution at a time.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
