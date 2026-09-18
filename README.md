@@ -66,6 +66,7 @@ Learning consistently, solving problems, and improving one solution at a time.
 | [0067-add-binary](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0242-valid-anagram](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +111,7 @@ Learning consistently, solving problems, and improving one solution at a time.
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,4 +133,12 @@ Learning consistently, solving problems, and improving one solution at a time.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0067-add-binary/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
