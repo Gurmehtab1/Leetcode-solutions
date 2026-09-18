@@ -54,6 +54,7 @@ Learning consistently, solving problems, and improving one solution at a time.
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0202-happy-number](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 ## String
@@ -62,6 +63,7 @@ Learning consistently, solving problems, and improving one solution at a time.
 | [0020-valid-parentheses](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0242-valid-anagram](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 ## Stack
@@ -115,6 +117,7 @@ Learning consistently, solving problems, and improving one solution at a time.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -124,4 +127,8 @@ Learning consistently, solving problems, and improving one solution at a time.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0202-happy-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
