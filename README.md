@@ -81,6 +81,7 @@ Learning consistently, solving problems, and improving one solution at a time.
 | [0035-search-insert-position](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0136-single-number/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +114,7 @@ Learning consistently, solving problems, and improving one solution at a time.
 | [0202-happy-number](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,4 +145,5 @@ Learning consistently, solving problems, and improving one solution at a time.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 <!---LeetCode Topics End-->
