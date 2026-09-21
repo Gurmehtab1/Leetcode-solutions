@@ -60,6 +60,7 @@ Learning consistently, solving problems, and improving one solution at a time.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
@@ -78,6 +79,7 @@ Learning consistently, solving problems, and improving one solution at a time.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0035-search-insert-position](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0136-single-number/) | Easy |
@@ -146,4 +148,8 @@ Learning consistently, solving problems, and improving one solution at a time.
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
