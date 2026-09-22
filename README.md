@@ -80,6 +80,7 @@ Learning consistently, solving problems, and improving one solution at a time.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0035-search-insert-position](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0136-single-number/) | Easy |
@@ -91,6 +92,7 @@ Learning consistently, solving problems, and improving one solution at a time.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0202-happy-number](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
@@ -120,6 +122,7 @@ Learning consistently, solving problems, and improving one solution at a time.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0242-valid-anagram](https://github.com/Gurmehtab1/Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
